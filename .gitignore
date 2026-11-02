@@ -1,1 +1,8 @@
 x.txt
+node_modules/
+.next/
+storybook-static/
+coverage/
+*.tsbuildinfo
+.env*
+!.env.example

@@ -1,0 +1,25 @@
+{
+  "IcoMoonType": "selection",
+  "height": 1024,
+  "metadata": { "name": "studio" },
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M64 64h384v384H64zM576 64h384v384H576zM64 576h384v384H64zM576 576h384v384H576z"
+        ],
+        "attrs": [{}],
+        "width": 1024
+      },
+      "properties": { "name": "grid", "code": 59648 }
+    },
+    {
+      "icon": {
+        "paths": ["M192 128h704v704H768V346L173 941 83 851 678 256H192z"],
+        "attrs": [{}],
+        "width": 1024
+      },
+      "properties": { "name": "arrow", "code": 59649 }
+    }
+  ]
+}
